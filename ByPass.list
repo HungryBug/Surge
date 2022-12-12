@@ -1,20 +1,20 @@
-//百度
-DOMAIN,baidu.com
-//腾讯
-DOMAIN,qq.com
-DOMAIN,qq.com.cn
-//阿里
-DOMAIN,taobao.com
-DOMAIN,alipay.com.cn
-DOMAIN,alipayobjects.com
-DOMAIN,alibabachengdun.com
-DOMAIN,alipay.com
-DOMAIN,aliapp.org
-//美团
-DOMAIN,dianping.com
-//CDN
-DOMAIN,bootcss.com
-//其他
-DOMAIN,limbopro.com
-DOMAIN,limbopro.cyou
-DOMAIN,githubusercontent.com
+# 百度
+DOMAIN-SUFFIX,baidu.com
+# 腾讯
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,qq.com.cn
+# 阿里
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,alipay.com.cn
+DOMAIN-SUFFIX,alipayobjects.com
+DOMAIN-SUFFIX,alibabachengdun.com
+DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,aliapp.org
+# 美团
+DOMAIN-SUFFIX,dianping.com
+# CDN
+DOMAIN-SUFFIX,bootcss.com
+# 其他
+DOMAIN-SUFFIX,limbopro.com
+DOMAIN-SUFFIX,limbopro.cyou
+DOMAIN-SUFFIX,githubusercontent.com
