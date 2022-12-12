@@ -1,8 +1,11 @@
 # 百度
 DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,bdimg.com
+DOMAIN-SUFFIX,bdstatic.com
 # 腾讯
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,qq.com.cn
+DOMAIN-SUFFIX,qpic.cn
 # 阿里
 DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,alipay.com.cn
