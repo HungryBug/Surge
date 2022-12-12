@@ -10,6 +10,10 @@ DOMAIN-SUFFIX,alipayobjects.com
 DOMAIN-SUFFIX,alibabachengdun.com
 DOMAIN-SUFFIX,alipay.com
 DOMAIN-SUFFIX,aliapp.org
+DOMAIN-SUFFIX,alibaba.net
+DOMAIN-SUFFIX,alibaba.com
+DOMAIN-SUFFIX,alipay.net
+DOMAIN-SUFFIX,mayibank.net
 # 美团
 DOMAIN-SUFFIX,dianping.com
 # CDN
